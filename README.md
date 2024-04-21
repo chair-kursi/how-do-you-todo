@@ -1,6 +1,7 @@
 ## Deployment 
 
-This project is live on [How Do You Todo?](https://how-do-you-todo.netlify.app/)
+- This app is live on [How Do You Todo?](https://how-do-you-todo.netlify.app/)
+- This app stores data in localstorage, no need to sign-up
 
 # Getting Started with Create React App
 
